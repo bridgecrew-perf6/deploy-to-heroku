@@ -1,0 +1,7 @@
+{
+  "name": "ionic web deploy to heroku",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
